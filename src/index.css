@@ -38,6 +38,6 @@ header {
 
 /* Encrypt/Decrypt */
 
-#encryptMessageInput {
+#encryptMessageInput, input, textarea {
   margin-bottom: 1rem;
 }
